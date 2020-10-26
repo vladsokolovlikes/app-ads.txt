@@ -1,4 +1,5 @@
- google.com, pub-6633572182342059, DIRECT, f08c47fec0942fa0
+google.com, pub-6633572182342059, DIRECT, f08c47fec0942fa0
+google.com, pub-7397003316630222, DIRECT, f08c47fec0942fa0
 #Appodeal
 appodeal.com, 64826, DIRECT
 #BidMachine
